@@ -23,9 +23,6 @@ Lesson Modules:
 **flextech-modules-code-formatting-intro-to-unit-testing-exercises**
 - exercises: https://github.com/LaunchCodeEducation/flextech-modules-code-formatting-intro-to-unit-testing-exercises
 
-**flextech-debugging-js-applications-exercises**
-- exercises: https://github.com/LaunchCodeEducation/flextech-debugging-js-applications-exercises
-
 **flextech-html-and-css-in-depth-exercises**
 - exercises: https://github.com/LaunchCodeEducation/flextech-html-and-css-in-depth-exercises
 
